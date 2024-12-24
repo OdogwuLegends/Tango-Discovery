@@ -12,4 +12,6 @@ public class DiscoveryServiceApplication {
 		SpringApplication.run(DiscoveryServiceApplication.class, args);
 	}
 
+	//git remote set-url origin git@github.com:OdogwuLegends/Tango-Discovery.git
+
 }
